@@ -1,4 +1,4 @@
  <?php
 $txt = "code";
-echo "I love this $txt!";
+echo "I love $txt!";
 ?> 
