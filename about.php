@@ -1,4 +1,4 @@
  <?php
 $txt = "about";
-echo "the wwebsite $txt!";
+echo "the wwebsites $txt!";
 ?> 
